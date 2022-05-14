@@ -1,12 +1,21 @@
-## Hi there 👋
 
-<!--
+<!-- ![Logo](https://i.imgur.com/aJHrsWL.gif) -->
 
-**Here are some ideas to get you started:**
+<a href="#"><img width="100%"  src="https://i.imgur.com/aJHrsWL.gif" /></a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">Somos Desarrolladores De Nuevo Laredo!</h3>
+
+## 👨🏽‍💻 Miembros
+
+- [Luis Valdez](https://github.com/valdez7900)
+
+- [Ivan Valdez](https://github.com/astronautxv)
+
+- [Juan Mata](https://github.com/juanguz97)
+
+## 🔗 Links
+[![paginaWeb](https://img.shields.io/badge/Pagina_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nlddev.com/)
+[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/NLDDEV)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NLDEV3)
+[![tiktok](https://img.shields.io/badge/Tiktok-000?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nldev)
